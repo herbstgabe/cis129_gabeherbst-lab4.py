@@ -42,6 +42,6 @@ else:
 print(' the store bonus amount is $', storeAmount)
 print(' The employee bonus amount is $',employeeAmount)
 if (storeAmount==6000)and(employeeAmount == 75):
-    print('copntrats you hav reached the highest bonus amount possible')
+    print('congrats you have reached the highest bonus amount possible')
 
     
